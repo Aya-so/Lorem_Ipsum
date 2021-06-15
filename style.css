@@ -46,3 +46,31 @@ header {
 .nav-list a {
   color: #fafafa;
 }
+
+/* メインビジュアル */
+.main-visual {
+  width: 100%;
+  height: 650px;
+  background-color: red;
+}
+
+/* メイン */
+main {
+  width: 100%;
+  height: 1000px;
+  background-color: blue;
+}
+
+/* フッター */
+footer {
+  width: 100%;
+  height: 60px;
+  text-align: center;
+  line-height: 60px;
+  background-color: #ec715f;
+}
+
+.footer-text {
+  font-size: 16px;
+  color: #fafafa;
+}
